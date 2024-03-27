@@ -38,6 +38,7 @@ plugins = [
     Python,
     Tornado,
     Jinja2,
+    Twig,
     Freemarker,
     Velocity,
     Slim,
